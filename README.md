@@ -9,4 +9,4 @@ Es sistema de anotación de victorias pero su uso ya depende de la imaginación,
 - Añadir fuente de navegador en OBS
 - Elegir la opción archivo locar y elegir el top.html
 - Usar una resolución de 300x980
-- Dale a interactuar en OBS para añadir nombres y puntuación
+- Dale a interactuar con la fuente en OBS para añadir nombres y puntuación
